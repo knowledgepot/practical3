@@ -1,3 +1,3 @@
 # practical3
 prcatical 3
-hello
+hello from atizkar local machine
